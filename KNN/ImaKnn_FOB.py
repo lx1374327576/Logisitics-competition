@@ -105,7 +105,7 @@ def main():
     plt.scatter(x, y, c='g', label='predict')
     plt.axis('tight')
     plt.legend()
-    plt.title("KNN")
+    plt.title("KNN-cif")
     plt.xlabel("num")
     plt.ylabel("y_composite")
     # plt.subplot(2, 1, 2)
